@@ -1,0 +1,26 @@
+ROADMAP
+
+Les différentes ressources documentaires liées au projet sont :
+	l'E-mail d'Evan Potter;
+	l'Architecture du système relatif aux sites de Boston, Dubaï, Francfort, Hong Kong, Londres et New Delhi;
+	le Processus de développement;
+	le Descriptif du projet;
+	le Système actuel et les Technologies utilisées.
+	
+
+1 Réalisation du tableau de sourcing
+	association entre les différentes ressources documentaires liées au projet et les domaines à évaluer, à savoir:
+		l'Architecture du système;
+		l'Hythèse de performance;
+		les Technilogies existantes;
+		la Capacité du système;
+		les Risques et limites;
+		la Solution proposée (le Solution générale et les Spécifications des exigences d'architecture).
+		
+	association entre les différentes ressources documentaires liées au projet et les domaines du TOGAF 9.1 à évaluer, à savoir:
+		A. Vision architecturale
+		B. Architecture d'entreprise
+		C. Architecture des systèmes d'information
+		D. Architecture techniologique
+		E. Solutions et Opportunités
+		

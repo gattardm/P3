@@ -1,0 +1,164 @@
+Salut Faouzi,
+tel que nous en avions discuté hier, j'ai confronté mon rapport d'audit à ton mindmap.
+Aussi, j'aurais quelques précisions à te demander, s'il te plait :
+au sein du mindmap, pourrais-tu m'indiquer en quoi consiste la branche 'Livrables/Rapport d'audit général/Technologies existantes'? Plus spécifiquement, penses-tu qu'il manque cet élément au sein du livrable?
+
+
+raisonnement structuré d'audit:
+1 Le secteur d'activité de l'entreprise et ses objectifs à court, moyen et long termes;
+	Prendre en compte l'environnement externe et les activités internes
+		avoir une compréhension approfondie des objectifs de l'entreprise et du secteur d'activité
+			cartographier l'environnement de l'entreprise à l'aide du Modèle des Forces de Porter
+				Modèle de Force de Porter (Michael)
+					Objectifs :
+						appréhender le secteur afin de développer une vision externe de l'entreprise
+						identifier ce qu'elle a mis en oeuvre pour faire face à ces différences forces en présence
+					descriptif des forces :
+						1 L'intensité oncurrentielle
+						2 Le pouvoir de négociation des clients
+						3 Le pouvoir de négociation des fournisseurs
+						4 La menace des produits ou services de substitution
+						5 La menace d'entrants portentiels sur la marché
+						6 Les pouvoirs publics
+			cartographier les activités de l'entreprise à l'aide de la Modélisation de la Chaine de Valeur de Porter
+				Analyse interne des fonctions ou activités de l'entreprise -> identfier les fonctions qui créent de la valeur, surtout d'un point de vue financier
+				La chaîne de value de Proter est composée des:
+					Actvités principales, dites "de base" qui contribuent à générer du chiffre d'affaire et  à dégager de la marge:
+						activités de logistique entrante pour l'approvissionnement;
+						activités de fabrication ou de production;
+						activités de logistique sortante pour la distribution et la commercialisation;
+						activités de marketing et de vente;
+						activités de service.
+					Activités de soutien, qui sont en support des activités principales et forment l'infrastrucutre de l'entreprise:
+						l'infrastructure de l'entreprise;
+						la gestion des ressources humaines;
+						la recherche et le développement;
+						les achats.		
+2 Le cadre réglementaire et les référentiels en vigueur, à la fois en entreprise et sur le marché.
+	Conformez-vous aux réglementations et aux standards
+		Avoir une vision globale au moyen d'une cartographie des processus répondant:
+			aux lois et aux réglementations à respecter sous peine de sanction;
+			à des standards et à des bonnes pratiques du secteur et/ou du métier, pour démontrer notamment la bonne gestion de l'entreprise.
+3 Les différentes parties prenantes et leurs attentes.
+
+Méthode SWOT (Forces, Faiblesses, Menaces, Opportunités)
+
+Gestion des compétences
+	En tant que manager, le premier travail sera d'identifier les compétences et les connaissances nécessaires à la mise en oeuvre de la stratégie d'audit interne
+Outils et autres ressources
+	Evaluer l'utilisation des outils et les ressources financières dont vous disposez pour mettre en place votre strétégie d'audit
+	
+Etablir un plan de communication pour informer la direction générale et les hautes instances du plan d'audit
+
+Maîtrisez les facteurs clés de succès
+	Etablir une communication régulière adaptée aux niveaux hiérarchiques via l'utilisation de tableau de bord ou d'outils de reporting, avec indicateurs périodiques et réguliers
+	Lister les compétences techniques, savoir-faire et savoir-être pour constituer l'équipe d'audit
+
+LA CHARTE D'AUDIT
+	La charte d’audit peut également être appelée une politique d'audit. Ce sont des synonymes. Cela dépendra du système de management de la qualité, ou de la pyramide documentaire, mis en place dans votre entreprise. En son absence, vous êtes libre de l’appeler charte ou politique d’audit.
+
+Contenu de la charte d'audit
+	La définition de l'audit (citer l'IIA et développer la définition officielle d'un audit)
+	Le positionnement de l'audit dans l'entreprise (sous la forme d'un organigramme, en précisant à quel directeur/responsable l'audit est rattaché)
+	Les principes d'action (cf ci-dessus)
+	Le rôle et les missions de l'audit (synthèse des règlementations (cadre de référence CRIPP),des référentiels et des bonnes pratiques, ainsi que les attentes des parties prenantes)
+	Le périmètre d'intervention
+	Le déroulement des missions
+	Le préimètre d'intervention (défini le cadre d u plan d'audit pluriannuel)
+	L'approche d'audit
+	
+Faire valider la charte d'audit par la direction générale et les hautes instances de l'entreprise/organisation -> soutien formel et officiel -> légitimité de l'audit
+
+Définir le périmètre d'intervention de la fonction d'audit
+	Un univers d'audit est composé :
+		des thématiques organisationnelles et techniques
+		des prjets en cours dans l'entreprise
+		des référtentiels externes
+		des référentiels internes
+		des réglementations et lois
+
+	Construire un Plan d'Audit selon :
+		Les aspects organisationnels
+		Les aspects techniques
+	Déterminer le cadre législatif et normatif des audits
+		ex : COBIT (gouvernance desSI)
+		ex : ITIL (gestion des systèmes d'Information)
+		ex : CMMI ( développement d'un Système d'Information)
+		ex : ISO 27001 (sécurité des Systèmes d'Information)
+		
+		Les référentiels externes sont identifés en fonction :
+			du domaine d'activité
+			du domaine fonctionnel
+			de l'environnement des SI
+			
+		Les référentiels internes
+			une charte, une politique ou une directive énonce des proncopes fondamentaux, alignés avec les objectifs stratégiques de l'entreprisE.
+			de l'environnement des SI
+
+Analyser les risques pour prioriser les audits
+	Identifier et prendre en compte les objectifs
+	Identifier les grands risques par fonction
+	Evaluer chacun des grands risques identifiés
+	
+Plusieurs d'analyses des risques
+	l'analyse dysfonctionnelle des processus
+	'analyse du retour d'expérience formel
+	les séances de créativité
+	l'inspection sur le terrain
+
+4 phases de l'apporche d'audit
+	1 La préparation
+		Définition des objectifs et enjeux
+		Analyse des risques
+		Revue documentaire		
+		OBJECTIFS : 
+			prendre connaissances des objectifs d'audit, de périmètre à auditer et identifier les risques ainsi que le dispositif de contrôle
+			construire et valider le référentiel d'audit
+			élaborer le programme de travail et valider l'organisation de la mission
+		LIVRABLES : 
+			Programmae de travail et Planning
+
+	2 L'investigation
+		Entretiens, tests et analysses
+		Détection des vulnérabilités
+		Evaluation des riques		
+		OBJECTIFS : 
+			collecter les informations et constituer les preuves d'audit au moyen d'outils tels ques les entretiens ou des analyses de données
+			analyser les infirmlations collectées et élaborer les recommandations
+		LIVRABLES : 
+			Compte-rendu d'entretiens et 1ère version du rapport d'audit
+
+	3 La validation
+		Démarche contradictoire
+		Validation des recommandations		
+		OBJECTIFS : 
+			mettre en oeuvre une démarche contradictoire pour donner l'opportunité aux audités de revenir sur certaines observations et recommandations
+		LIVRABLES : 
+			version finale du rapport d'audit
+	4 Le suivi
+		Suivi de la mise en oeuvre des recommandations d'audit
+		OBJECTIFS : 
+			EN TANT QU'AUDITEUR OU RESPONSABLE DE LA FONCTION D'AUDIT, VOUS NE POUVEZ PAS PARTICIPER A LA MISE EN OEUVRE DES PLANS D'ACTION. ON NE PEUT ÊTRE JUGE ET PARTI
+			
+Réaliser la lettre de mission
+	identifier les clients de la mission d'audit
+	déterminer l'évènement déclencheur de l'audit
+	préciser les attentes des cleitsn
+	délimiter le périmètre de la mission d'audit
+	déterminer les livrables de la mission
+	
+Elaborer un référentiel d'audit
+	1 La compréhension des processus
+	2 L'analyse des risques
+	3 L'identification des contrôles attendus
+
+Elaborer un programme de travail
+	Le contexte
+	Les objectifs de la lettre de mission
+	Les objectifs des travaux d'audit
+	L'approche et le périmètre
+	Les documents à collecter
+	Les contacts des auditeurs
+	L'orgranisation et le déroulement des travaux
+
+	
